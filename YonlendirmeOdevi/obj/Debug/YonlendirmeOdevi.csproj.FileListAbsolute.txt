@@ -1,0 +1,10 @@
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\bin\Debug\YonlendirmeOdevi.exe.config
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\bin\Debug\YonlendirmeOdevi.exe
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\bin\Debug\YonlendirmeOdevi.pdb
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\obj\Debug\YonlendirmeOdevi.csproj.AssemblyReference.cache
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\obj\Debug\YonlendirmeOdevi.Form1.resources
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\obj\Debug\YonlendirmeOdevi.Properties.Resources.resources
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\obj\Debug\YonlendirmeOdevi.csproj.GenerateResource.cache
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\obj\Debug\YonlendirmeOdevi.csproj.CoreCompileInputs.cache
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\obj\Debug\YonlendirmeOdevi.exe
+D:\PROJELERİM\VS\YonlendirmeOdevi\YonlendirmeOdevi\obj\Debug\YonlendirmeOdevi.pdb
